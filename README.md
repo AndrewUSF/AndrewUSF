@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=AndrewUSF&style=flat-square&color=blue" alt="profile visits">
+<img src="https://komarev.com/ghpvc/?username=AndrewUSF&style=flat-square&color=blue" alt="Profile Visits">
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewUSF"/>
 </div>
