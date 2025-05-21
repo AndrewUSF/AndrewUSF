@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<img src="https://komarev.com/ghpvc/?username=AndrewUSF&style=flat-square&color=blue" alt="profile visits">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewUSF"/>
+</div>
+
 <!--
 **AndrewUSF/AndrewUSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
