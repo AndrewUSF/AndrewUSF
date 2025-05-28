@@ -1,5 +1,5 @@
 <!-- Header Image Goes Here -->
-<img src="header.webp" alt="Header Image" style="border-radius: 20px; border: 5px solid #004D80; display: block;">
+<img src="header.webp" alt="Header Image">
 
 <img src="https://komarev.com/ghpvc/?username=AndrewUSF&style=flat-square&color=blue" alt="Profile Visits">
 <div align="center">
