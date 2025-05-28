@@ -10,8 +10,6 @@ I work at the intersection of design, data, and emerging technologies. Below are
 #### 🔬 Research & Data Analysis
 
 ![Python](https://skillicons.dev/icons?i=python)
-![Jupyter](https://skillicons.dev/icons?i=jupyter)
-![Pandas](https://skillicons.dev/icons?i=pandas)
 ![LaTeX](https://skillicons.dev/icons?i=latex)
 
 ---
