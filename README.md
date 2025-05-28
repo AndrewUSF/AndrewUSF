@@ -1,4 +1,5 @@
 <!-- Header Image Goes Here -->
+<img src="header.png"/>
 
 <img src="https://komarev.com/ghpvc/?username=AndrewUSF&style=flat-square&color=blue" alt="Profile Visits">
 <div align="center">
