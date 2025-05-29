@@ -18,8 +18,7 @@ I work at the intersection of design, data, and emerging technologies. Below are
 ### 🧠 Programming & Scripting
 > General-purpose languages and tools used for software development, scripting, and automation.
 
-<!--![Python](https://skillicons.dev/icons?i=python)-->
-<img src="https://skillicons.dev/icons?i=python" width="32" alt="Python"/>
+![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Swift](https://skillicons.dev/icons?i=swift)
