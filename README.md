@@ -11,7 +11,7 @@
 
 # -- Tools I Use as an HCI Researcher --
 
-I work at the intersection of design, data, and emerging technologies. Below are the tools I regularly use for research, prototyping, experimentation, and deployment.
+I work where design, data, and emerging technologies meet. These are the tools I use regularly for research, prototyping, experimentation, and deployment.
 
 <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
   <strong>🔬 Research</strong>
