@@ -1,13 +1,13 @@
 <!-- Header Image Goes Here -->
 <img src="header.webp" alt="Header Image">
 
-## About
+## -- About --
 
 - I am an incoming Computer Science PhD student for Fall 2025 at the [Bellini College of Artificial Intelligence, Cybersecurity and Computing](https://www.usf.edu/ai-cybersecurity-computing/) at the University of South Florida ([USF](https://www.usf.edu)).
 - I will be a member of The Engaging Computing Design ([EnCoDe](https://encoderesearchlab.org)) Research Lab, led by [Dr. Julia Woodward](https://juliawoodward.wordpress.com/about-me/).
 - I am highly interested in Human-Computer Interaction ([HCI](https://en.wikipedia.org/wiki/Human–computer_interaction)), Virtual Reality ([VR](https://en.wikipedia.org/wiki/Virtual_reality)), Augmented Reality ([AR](https://en.wikipedia.org/wiki/Augmented_reality)), and Extended Reality ([XR](https://en.wikipedia.org/wiki/Extended_reality)).
 
- ## 🧠 Tools I Use as an HCI Researcher
+ ## -- Tools I Use as an HCI Researcher --
 
 I work at the intersection of design, data, and emerging technologies. Below are the tools I regularly use for research, prototyping, experimentation, and deployment.
 
