@@ -13,17 +13,47 @@
 
 I work at the intersection of design, data, and emerging technologies. Below are the tools I regularly use for research, prototyping, experimentation, and deployment.
 
-Research: ![LaTeX](https://skillicons.dev/icons?i=latex)
+<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
+  <strong>🔬 Research</strong>
+  <img src="https://skillicons.dev/icons?i=latex" height="32">
+</div>
 
-Programming: ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Swift](https://skillicons.dev/icons?i=swift) ![Node.js](https://skillicons.dev/icons?i=nodejs)
+<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
+  <strong>💻 Programming</strong>
+  <img src="https://skillicons.dev/icons?i=python" height="32">
+  <img src="https://skillicons.dev/icons?i=js" height="32">
+  <img src="https://skillicons.dev/icons?i=ts" height="32">
+  <img src="https://skillicons.dev/icons?i=swift" height="32">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="32">
+</div>
 
-Data: ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
+  <strong>🗄️ Data</strong>
+  <img src="https://skillicons.dev/icons?i=mysql" height="32">
+  <img src="https://skillicons.dev/icons?i=postgres" height="32">
+</div>
 
-Design: ![Figma](https://skillicons.dev/icons?i=figma) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react)
+<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
+  <strong>🎨 Design</strong>
+  <img src="https://skillicons.dev/icons?i=figma" height="32">
+  <img src="https://skillicons.dev/icons?i=html" height="32">
+  <img src="https://skillicons.dev/icons?i=css" height="32">
+  <img src="https://skillicons.dev/icons?i=react" height="32">
+</div>
 
-Interactive: ![Unity](https://skillicons.dev/icons?i=unity) ![Arduino](https://skillicons.dev/icons?i=arduino)
+<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
+  <strong>🎮 Interactive</strong>
+  <img src="https://skillicons.dev/icons?i=unity" height="32">
+  <img src="https://skillicons.dev/icons?i=arduino" height="32">
+</div>
 
-Workflow: ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Vim](https://skillicons.dev/icons?i=vim)
+<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
+  <strong>🧰 Workflow</strong>
+  <img src="https://skillicons.dev/icons?i=git" height="32">
+  <img src="https://skillicons.dev/icons?i=github" height="32">
+  <img src="https://skillicons.dev/icons?i=vscode" height="32">
+  <img src="https://skillicons.dev/icons?i=vim" height="32">
+</div>
 
 <br>
 
