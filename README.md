@@ -1,7 +1,7 @@
 <!-- Header Image Goes Here -->
 <img src="header.webp" alt="Header Image">
 
-<!-- ### 🧠 Tools I Use as an HCI Researcher
+ ### 🧠 Tools I Use as an HCI Researcher
 
 I work at the intersection of design, data, and emerging technologies. Below are the tools I regularly use for research, prototyping, experimentation, and deployment.
 
@@ -46,7 +46,7 @@ I work at the intersection of design, data, and emerging technologies. Below are
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
-![Vim](https://skillicons.dev/icons?i=vim) -->
+![Vim](https://skillicons.dev/icons?i=vim)
 
 
 <img src="https://komarev.com/ghpvc/?username=AndrewUSF&style=flat-square&color=blue" alt="Profile Visits">
