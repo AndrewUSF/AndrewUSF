@@ -13,8 +13,6 @@
 
 I work at the intersection of design, data, and emerging technologies. Below are the tools I regularly use for research, prototyping, experimentation, and deployment.
 
----
-
 Research: ![LaTeX](https://skillicons.dev/icons?i=latex)
 
 Programming: ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Swift](https://skillicons.dev/icons?i=swift) ![Node.js](https://skillicons.dev/icons?i=nodejs)
