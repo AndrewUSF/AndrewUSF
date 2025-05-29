@@ -66,6 +66,7 @@ I work at the intersection of design, data, and emerging technologies. Below are
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Vim](https://skillicons.dev/icons?i=vim)
 
+## -- Stats --
 
 <img src="https://komarev.com/ghpvc/?username=AndrewUSF&style=flat-square&color=blue" alt="Profile Visits">
 <div align="center">
