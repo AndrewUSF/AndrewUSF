@@ -1,7 +1,7 @@
 <!-- Header Image Goes Here -->
 <img src="header.webp" alt="Header Image">
 
-# -- About --
+## About
 
 - I am an incoming Computer Science PhD student for Fall 2025 at the [Bellini College of Artificial Intelligence, Cybersecurity and Computing](https://www.usf.edu/ai-cybersecurity-computing/) at the University of South Florida ([USF](https://www.usf.edu)).
 - I will be a member of The Engaging Computing Design ([EnCoDe](https://encoderesearchlab.org)) Research Lab, led by [Dr. Julia Woodward](https://juliawoodward.wordpress.com/about-me/).
@@ -9,7 +9,7 @@
 
 <br>
 
-# -- Tools I Use as an HCI Researcher --
+## Tools I Use as an HCI Researcher
 
 I work where design, data, and emerging technologies meet. These are the tools I use regularly for research, prototyping, experimentation, and deployment.
 
@@ -57,7 +57,7 @@ I work where design, data, and emerging technologies meet. These are the tools I
 
 <br>
 
-# -- Stats --
+## Stats
 
 <img src="https://komarev.com/ghpvc/?username=AndrewUSF&style=flat-square&color=blue" alt="Profile Visits">
 <div align="center">
