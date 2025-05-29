@@ -11,6 +11,10 @@
 
 # -- Tools I Use as an HCI Researcher --
 
+<div style="display: flex; align-items: center;">
+<strong>Research:</strong> ![LaTeX](https://skillicons.dev/icons?i=latex)
+</div>
+
 I work at the intersection of design, data, and emerging technologies. Below are the tools I regularly use for research, prototyping, experimentation, and deployment.
 
 ---
