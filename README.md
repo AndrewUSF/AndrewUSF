@@ -16,7 +16,7 @@ I work where design, data, and emerging technologies meet. These are the tools I
   <strong>🔬 Research</strong>
   <img src="https://skillicons.dev/icons?i=latex" height="32">
 </div>
-<br>
+<img src="https://skillicons.dev/icons?i=latex" height="32">
 <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
   <strong>💻 Programming</strong>
   <img src="https://skillicons.dev/icons?i=python" height="32">
