@@ -26,13 +26,13 @@ I work where design, data, and emerging technologies meet. These are the tools I
   <img src="https://skillicons.dev/icons?i=swift" height="32">
   <img src="https://skillicons.dev/icons?i=nodejs" height="32">
 </div>
-
+<br>
 <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
   <strong>🗄️ Data</strong>
   <img src="https://skillicons.dev/icons?i=mysql" height="32">
   <img src="https://skillicons.dev/icons?i=postgres" height="32">
 </div>
-
+<br>
 <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
   <strong>🎨 Design</strong>
   <img src="https://skillicons.dev/icons?i=figma" height="32">
@@ -40,13 +40,13 @@ I work where design, data, and emerging technologies meet. These are the tools I
   <img src="https://skillicons.dev/icons?i=css" height="32">
   <img src="https://skillicons.dev/icons?i=react" height="32">
 </div>
-
+<br>
 <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
   <strong>🎮 Interactive</strong>
   <img src="https://skillicons.dev/icons?i=unity" height="32">
   <img src="https://skillicons.dev/icons?i=arduino" height="32">
 </div>
-
+<br>
 <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px;">
   <strong>🧰 Workflow</strong>
   <img src="https://skillicons.dev/icons?i=git" height="32">
