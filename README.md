@@ -7,7 +7,6 @@
 - I will be a member of The Engaging Computing Design ([EnCoDe](https://encoderesearchlab.org)) Research Lab, led by [Dr. Julia Woodward](https://juliawoodward.wordpress.com/about-me/).
 - I am highly interested in Human-Computer Interaction ([HCI](https://en.wikipedia.org/wiki/Human–computer_interaction)), Virtual Reality ([VR](https://en.wikipedia.org/wiki/Virtual_reality)), Augmented Reality ([AR](https://en.wikipedia.org/wiki/Augmented_reality)), and Extended Reality ([XR](https://en.wikipedia.org/wiki/Extended_reality)).
 
-<br>
 
 ## Tools I Use as an HCI Researcher
 
@@ -54,8 +53,6 @@ I work where design, data, and emerging technologies meet. These are the tools I
   <img src="https://skillicons.dev/icons?i=vscode" height="32">
   <img src="https://skillicons.dev/icons?i=vim" height="32">
 </div>
-
-<br>
 
 ## Stats
 
