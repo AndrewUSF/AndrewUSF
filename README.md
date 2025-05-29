@@ -5,7 +5,7 @@
 
 - I am an incoming Computer Science PhD student for Fall 2025 at the Bellini College of Artificial Intelligence, Cybersecurity and Computing at the University of South Florida.
 - I will be a member of The Engaging Computing Design (EnCoDe) Research Lab, led by Dr. Julia Woodward.
-- I am highly interested in Human-Computer Interaction (HCI), Virtual Reality (VR), Augmented Reality (AR), and Extended Reality (XR).
+- I am highly interested in Human-Computer Interaction ([HCI](https://en.wikipedia.org/wiki/Human–computer_interaction)), Virtual Reality (VR), Augmented Reality (AR), and Extended Reality (XR).
 
  ## 🧠 Tools I Use as an HCI Researcher
 
