@@ -11,66 +11,21 @@
 
 # -- Tools I Use as an HCI Researcher --
 
-<div style="display: flex; align-items: center;">
-<strong>Research:</strong> ![LaTeX](https://skillicons.dev/icons?i=latex)
-</div>
-
 I work at the intersection of design, data, and emerging technologies. Below are the tools I regularly use for research, prototyping, experimentation, and deployment.
 
 ---
 
-### 🧠 Programming & Scripting
-> General-purpose languages and tools used for software development, scripting, and automation.
+Research: ![LaTeX](https://skillicons.dev/icons?i=latex)
 
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Swift](https://skillicons.dev/icons?i=swift)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
+Programming: ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Swift](https://skillicons.dev/icons?i=swift) ![Node.js](https://skillicons.dev/icons?i=nodejs)
 
----
+Data: ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
-### 🧮 Data Analysis & Scientific Computing
-> Tools and languages for processing, analyzing, and visualizing data in research or technical contexts.
+Design: ![Figma](https://skillicons.dev/icons?i=figma) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react)
 
-![Python](https://skillicons.dev/icons?i=python)
-![LaTeX](https://skillicons.dev/icons?i=latex)
+Interactive: ![Unity](https://skillicons.dev/icons?i=unity) ![Arduino](https://skillicons.dev/icons?i=arduino)
 
----
-
-### 🎨 UI/UX & Front-End Development
-> Tools for designing and building user interfaces.
-
-![Figma](https://skillicons.dev/icons?i=figma)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-
----
-
-### 🧪 Interactive & Embedded Systems
-> Technologies used for building interactive experiences and hardware-integrated systems.
-
-![Unity](https://skillicons.dev/icons?i=unity)
-![Arduino](https://skillicons.dev/icons?i=arduino)
-
----
-
-### 🗃️ Databases & Data Management
-> Tools for structuring, storing, and querying data.
-
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-
----
-
-### ⚙️ Dev Tools & Version Control
-> Tools that support efficient development, collaboration, and code management.
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Vim](https://skillicons.dev/icons?i=vim)
+Workflow: ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Vim](https://skillicons.dev/icons?i=vim)
 
 <br>
 
